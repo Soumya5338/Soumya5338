@@ -21,6 +21,7 @@ where I developed the <strong>FAIR Project</strong> for <strong>IAMPL Company</s
 <ul>
   <li>Developing full stack web applications using Java technologies</li>
   <li>Implementing backend logic and database integration</li>
+  <li>Working with modern frontend technologies</li>
   <li>Applying OOP concepts and structured development practices</li>
 </ul>
 
@@ -29,17 +30,20 @@ where I developed the <strong>FAIR Project</strong> for <strong>IAMPL Company</s
 <ul>
   <li>Successfully developed the <strong>FAIR Project</strong> for IAMPL Company</li>
   <li>Worked on frontend and backend integration</li>
-  <li>Handled database operations and business requirements</li>
+  <li>Managed database operations and business requirements</li>
   <li>Collaborated in a real-time project development environment</li>
 </ul>
 
----
+
 
 <h2 align="center"> Technical Skills</h2>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
 <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -48,7 +52,7 @@ where I developed the <strong>FAIR Project</strong> for <strong>IAMPL Company</s
 
 <p align="center">
 <marquee behavior="scroll" direction="left" scrollamount="6">
-Full Stack Development • OOP • Database Management • Problem Solving • Continuous Learning
+Full Stack Development • ReactJS • MongoDB • Firebase • OOP • Database Management • Problem Solving • Continuous Learning
 </marquee>
 </p>
 
@@ -67,7 +71,4 @@ my technical and professional skills.
 <p align="center">
  Building Skills |  Growing Every Day |  Future Software Engineer
 </p>
-
-
-
 
