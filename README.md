@@ -1,52 +1,64 @@
 
 
-<h1 align="center">Hi , I'm Soumya Mantha</h1>
+<h1 align="center">Soumya Mantha</h1>
 
 <h3 align="center">
-Java Full Stack Intern | Python Full Stack Developer | Passionate Learner
+Java Full Stack Intern | Python Full Stack Developer
 </h3>
 
-<hr>
-
 <p align="center">
-I am a dedicated Full Stack Developer currently working as a 
-<strong>Java Full Stack Intern</strong>. 
-I previously completed my <strong>Python Full Stack Internship</strong> 
-at <strong>Innovascape</strong>, where I developed the 
-<strong>FAIR Project</strong> for <strong>IAMPL Company</strong>. 
-I am passionate about building scalable web applications 
-and continuously improving my technical skills.
+Dedicated and detail-oriented Full Stack Developer with hands-on experience 
+in building scalable web applications. 
+Currently pursuing a <strong>Java Full Stack Internship</strong> 
+and previously completed a <strong>Python Full Stack Internship</strong> 
+at <strong>Innovascape</strong>, where I successfully developed the 
+<strong>FAIR Project</strong> for <strong>IAMPL Company</strong>.
 </p>
 
 <hr>
 
-<h2 align="center"> Internship Experience</h2>
+<h2 align="center">Professional Experience</h2>
 
-<h3> Current Internship</h3>
-<p>
-<strong>Role:</strong> Java Full Stack Intern <br>
-Working on backend development, database integration, and full stack web application development using Java technologies.
-</p>
+<h3> Java Full Stack Intern (Current)</h3>
+<ul>
+  <li>Developing end-to-end web applications using Java technologies</li>
+  <li>Working on backend logic, database integration, and UI development</li>
+  <li>Applying OOP principles and structured project development</li>
+</ul>
 
-<h3> Previous Internship</h3>
-<p>
-<strong>Company:</strong> Innovascape <br>
-<strong>Role:</strong> Python Full Stack Intern <br>
-<strong>Project:</strong> FAIR Project (Developed for IAMPL Company)
-</p>
+<h3>🏢 Python Full Stack Intern – Innovascape</h3>
+<ul>
+  <li>Developed the <strong>FAIR Project</strong> for IAMPL Company</li>
+  <li>Worked on both frontend and backend development</li>
+  <li>Implemented database operations and business requirements</li>
+  <li>Collaborated in real-time project development environment</li>
+</ul>
 
 <hr>
 
 <h2 align="center"> Technical Skills</h2>
 
-<marquee behavior="scroll" direction="left" scrollamount="6">
-Java  |  Python  |  SQL  |  HTML  |  CSS  |  JavaScript  |  Full Stack Development  |  OOP  |  Database Management
+<p align="center">
+<marquee behavior="alternate" scrollamount="5">
+Java  •  Python  •  SQL  •  HTML  •  CSS  •  JavaScript  •  OOP  •  Database Management  •  Full Stack Development
 </marquee>
+</p>
+
+<hr>
+
+<h2 align="center"> Career Objective</h2>
+
+<p align="center">
+To leverage my full stack development skills in building efficient, 
+scalable, and impactful software solutions while continuously 
+learning and growing in the field of technology.
+</p>
 
 <hr>
 
 <p align="center">
-Committed to Continuous Learning & Professional Growth 
+Committed to Professional Growth | Continuous Learning | Innovation 
 </p>
+
 
 
