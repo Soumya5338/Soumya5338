@@ -28,7 +28,7 @@ and continuously improving my technical skills.
 Working on backend development, database integration, and full stack web application development using Java technologies.
 </p>
 
-<h3>🏢 Previous Internship</h3>
+<h3> Previous Internship</h3>
 <p>
 <strong>Company:</strong> Innovascape <br>
 <strong>Role:</strong> Python Full Stack Intern <br>
