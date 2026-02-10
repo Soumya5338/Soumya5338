@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-<h2 align="center">💼 Internship Experience</h2>
+<h2 align="center"> Internship Experience</h2>
 
 <hr>
 
-<h3>🚀 Current Internship</h3>
+<h3> Current Internship</h3>
 
 <p>
 <strong>Role:</strong> Java Full Stack Intern <br>
@@ -24,7 +24,7 @@ Improving skills in backend development, database integration, and frontend tech
 
 <hr>
 
-<h3>🏢 Previous Internship</h3>
+<h3> Previous Internship</h3>
 
 <p>
 <strong>Company:</strong> Innovascape <br>
@@ -49,10 +49,11 @@ and implemented real-time business requirements for IAMPL Company.
 
 <hr>
 
-<h3 align="center">🛠️ Technical Skills</h3>
+<h3 align="center">Technical Skills</h3>
 
 <p align="center">
-Java | Python | SQL | HTML | CSS | JavaScript | Full Stack Development
+  <marquee>
+Java | Python | SQL | HTML | CSS | JavaScript | Full Stack Development</marquee>
 </p>
 
 <hr>
