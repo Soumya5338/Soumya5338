@@ -1,64 +1,52 @@
-## Hi there 👋
+
+
+<h1 align="center">Hi , I'm Soumya Mantha</h1>
+
+<h3 align="center">
+Java Full Stack Intern | Python Full Stack Developer | Passionate Learner
+</h3>
+
+<hr>
+
+<p align="center">
+I am a dedicated Full Stack Developer currently working as a 
+<strong>Java Full Stack Intern</strong>. 
+I previously completed my <strong>Python Full Stack Internship</strong> 
+at <strong>Innovascape</strong>, where I developed the 
+<strong>FAIR Project</strong> for <strong>IAMPL Company</strong>. 
+I am passionate about building scalable web applications 
+and continuously improving my technical skills.
+</p>
+
+<hr>
 
 <h2 align="center"> Internship Experience</h2>
 
-<hr>
-
 <h3> Current Internship</h3>
-
 <p>
 <strong>Role:</strong> Java Full Stack Intern <br>
-<strong>Description:</strong><br>
-Currently working as a Java Full Stack Intern, gaining hands-on experience in building 
-end-to-end web applications using Java technologies. 
-Improving skills in backend development, database integration, and frontend technologies.
+Working on backend development, database integration, and full stack web application development using Java technologies.
 </p>
 
-<ul>
-  <li>Core Java</li>
-  <li>JDBC</li>
-  <li>Servlets & JSP</li>
-  <li>SQL</li>
-  <li>HTML, CSS, JavaScript</li>
-</ul>
-
-<hr>
-
-<h3> Previous Internship</h3>
-
+<h3>🏢 Previous Internship</h3>
 <p>
 <strong>Company:</strong> Innovascape <br>
 <strong>Role:</strong> Python Full Stack Intern <br>
-<strong>Project Developed:</strong> FAIR Project <br>
-<strong>Client:</strong> IAMPL Company
-</p>
-
-<p>
-<strong>Project Description:</strong><br>
-Successfully developed the FAIR Project using Python Full Stack technologies. 
-Worked on both frontend and backend development, database handling, 
-and implemented real-time business requirements for IAMPL Company.
-</p>
-
-<ul>
-  <li>Python</li>
-  <li> Flask (if used, update accordingly)</li>
-  <li>MySQL / SQLite / MongoDB</li>
-  <li>HTML, CSS, JavaScript</li>
-</ul>
-
-<hr>
-
-<h3 align="center">Technical Skills</h3>
-
-<p align="center">
-  <marquee>
-Java | Python | SQL | HTML | CSS | JavaScript | Full Stack Development</marquee>
+<strong>Project:</strong> FAIR Project (Developed for IAMPL Company)
 </p>
 
 <hr>
 
+<h2 align="center"> Technical Skills</h2>
+
+<marquee behavior="scroll" direction="left" scrollamount="6">
+Java  |  Python  |  SQL  |  HTML  |  CSS  |  JavaScript  |  Full Stack Development  |  OOP  |  Database Management
+</marquee>
+
+<hr>
+
 <p align="center">
- Passionate about Full Stack Development & Continuous Learning 
+Committed to Continuous Learning & Professional Growth 
 </p>
+
 
